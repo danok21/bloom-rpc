@@ -1,0 +1,10 @@
+
+[workspace]
+members = [
+    "eth-rpc",
+    "rpc-client",
+    "rpc-server",
+]
+
+
+
